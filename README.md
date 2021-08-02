@@ -1,2 +1,4 @@
 # boll1979
-Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction
+
+Inspired by a matlab project of AissamDjahnine: https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-
+
